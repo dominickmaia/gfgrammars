@@ -1,0 +1,6 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "with python" ;
+  Pred3.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  HtmltoTxt.		Arg     ::= "html to text" ;
+  Act.       		Inf     ::= "to convert" ;

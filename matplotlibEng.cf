@@ -1,0 +1,6 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  FontSizePlot.		Arg     ::= "the font size on a matplotlib plot" ;
+  FontSizePlot2.	Arg     ::= "the matplotlib plot font size" ;
+  Act.       		Inf     ::= "to change" ;

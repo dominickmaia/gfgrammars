@@ -1,0 +1,16 @@
+  Pred.      		Request ::= Command Arg "em python" ;
+  Pred2.		Request ::= Wh Inf Arg "em python" ;
+  Pred3.		Request ::= "em python" Wh Verb1SG Arg ; 
+  How.			Wh      ::= "como" ;
+  Imperat.	     	Command ::= Imp ;
+  Mod.	     		Command ::= Modal Inf ;
+  Imp2sg.    		Imp     ::= "converta";
+  Imp2sg.	    	Imp     ::= "transforme" ;
+  Afir1sg.              Verb1SG ::= "converto" ;
+  Afir1sg2.             Verb1SG ::= "transformo" ;
+  HtmltoTxt.		Arg     ::= "html em texto" ;
+  Des.	     		Modal   ::= "quero" ;
+  Des2.			Modal   ::= "gostaria de" ;
+  Des3.			Modal   ::= "queria" ;
+  Act.       		Inf     ::= "converter" ;
+  Act2.	     		Inf     ::= "transformar" ;

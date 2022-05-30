@@ -1,0 +1,9 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  VariableType.		Arg     ::= "the variable type" ;
+  VariableType2.	Arg     ::= "a variable type" ;
+  VariableType3.	Arg     ::= "the type of a variable" ;
+  Act.       		Inf     ::= "to determine" ;
+  Act2.	     		Inf     ::= "to show" ;
+  Act3.	     		Inf     ::= "to access" ;

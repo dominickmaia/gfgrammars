@@ -1,0 +1,16 @@
+  Pred.      		Request ::= Command Arg "em python" ;
+  Pred2.		Request ::= Wh Inf Arg "em python" ;
+  Pred3.		Request ::= "em python" Wh Verb1SG Arg ; 
+  How.			Wh      ::= "como" ;
+  Imperat.	     	Command ::= Imp ;
+  Mod.	     		Command ::= Modal Inf ;
+  Imp2sg.    		Imp     ::= "itere";
+  Afir1sg.              Verb1SG ::= "itero" ;
+  IterDict.		Arg     ::= "dicionários usando loops for" ;
+  IterDict2.		Arg     ::= "dicionários usando o loop for" ;
+  IterDict3.		Arg     ::= "dicionários usando for" ;
+  IterDict4.		Arg     ::= "dicionários com loop for" ;
+  Des.	     		Modal   ::= "quero" ;
+  Des2.			Modal   ::= "gostaria de" ;
+  Des3.			Modal   ::= "queria" ;
+  Act.       		Inf     ::= "iterar" ;

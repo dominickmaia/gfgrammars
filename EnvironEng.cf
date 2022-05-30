@@ -1,0 +1,12 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ;
+  How.			Wh      ::= "how" ;
+  EnvVar.		Arg     ::= "environment variables" ;
+  EnvVar2.		Arg     ::= "an environment variable" ;
+  EnvVar3.		Arg     ::= "the value of environment variable" ;
+  EnvVar4.		Arg	::= "the environment variable value" ;
+  Act.       		Inf     ::= "to access" ;
+  Act2.	     		Inf     ::= "to show" ;
+  Act3.	     		Inf     ::= "to find" ;
+  Act4.	     		Inf     ::= "to see" ;
+  Act5.	     		Inf     ::= "to get" ;

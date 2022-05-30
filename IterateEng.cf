@@ -1,0 +1,7 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  EnvVar.		Arg     ::= "dictionaries using for loops" ;
+  EnvVar2.		Arg     ::= "dictionaries using for" ;
+  EnvVar3.		Arg     ::= "dictionaries using the for loop" ;
+  Act.       		Inf     ::= "to iterate" ;

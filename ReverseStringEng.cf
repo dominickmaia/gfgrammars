@@ -1,0 +1,9 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  ReverseString.	Arg     ::= "a string" ;
+  ReverseString2.	Arg     ::= "the characters in a string" ;
+  ReverseString3.	Arg     ::= "all characters in a string" ;
+  ReverseString4.	Arg     ::= "the elements of a string" ;
+  ReverseString5.	Arg     ::= "all elements of a string" ;
+  Act.       		Inf     ::= "to reverse" ;

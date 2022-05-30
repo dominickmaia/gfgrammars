@@ -1,0 +1,16 @@
+  Pred.      		Request ::= Command Arg "em python" ;
+  Pred2.		Request ::= Wh Inf Arg "em python" ;
+  Pred3.		Request ::= "em python" Wh Verb1SG Arg ; 
+  How.			Wh      ::= "como" ;
+  Imperat.	     	Command ::= Imp ;
+  Mod.	     		Command ::= Modal Inf ;
+  Imp2sg.    		Imp     ::= "inverta";
+  Afir1sg.              Verb1SG ::= "inverto" ;
+  ReverseString.	Arg     ::= "todos os elementos de uma string" ;
+  ReverseString2.	Arg     ::= "todos os caracteres de uma string" ;
+  ReverseString3.	Arg     ::= "os elementos de uma string" ;
+  ReverseString4.	Arg     ::= "os caracteres de uma string" ;
+  Des.	     		Modal   ::= "quero" ;
+  Des2.			Modal   ::= "gostaria de" ;
+  Des3.			Modal   ::= "queria" ;
+  Act.       		Inf     ::= "inverter" ;

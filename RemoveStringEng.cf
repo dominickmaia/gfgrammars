@@ -1,0 +1,8 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  Substring.		Arg     ::= "a substring from the end of a string" ;
+  Substring2.		Arg     ::= "a substring from the string end" ;
+  Act.       		Inf     ::= "to remove" ;
+  Act2.	     		Inf     ::= "to exclude " ;
+  Act3.	     		Inf     ::= "to delete" ;

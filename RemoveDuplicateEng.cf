@@ -1,0 +1,10 @@
+  Pred.			Request ::= Wh Inf Arg "in python" ;
+  Pred2.		Request ::= Wh Inf Arg "using python" ; 
+  How.			Wh      ::= "how" ;
+  DuplicateStr.		Arg     ::= "duplicate words in a string" ;
+  DuplicateStr2.	Arg     ::= "all duplicates in a string" ;
+  DuplicateStr3.	Arg     ::= "the string duplicate words" ;
+  Act.       		Inf     ::= "to remove" ;
+  Act2.	     		Inf     ::= "to exclude " ;
+  Act3.	     		Inf     ::= "to delete" ;
+  Act4.	     		Inf     ::= "to erase" ;
