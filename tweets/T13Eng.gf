@@ -1,7 +1,7 @@
 concrete T13Eng of T13 = {
 
   lincat
-    Tweet, A, C, Ccomp, E, F = {s : Str} ;
+    Tweet, A, C, Dcomp, E, F = {s : Str} ;
 
   lin
     Pred a d dcomp e f = {s = a.s ++ d.s ++ dcomp.s ++ e.s ++ f.s} ;
